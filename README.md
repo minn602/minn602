@@ -8,7 +8,8 @@
 
 ❣ **Productive and Sustainable Life🌊**
 
-<a href="minn602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=minn602@gmail.com"/></a>
+<a href="mailto:minn602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=minn602@gmail.com"/></a> <a href="https://velog.io/@minn602"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minn602" /></a>
+
 
 
 
