@@ -1,6 +1,6 @@
 ### Minsun Jung
 ---
-👩‍💻**FrontEnd Developer in South Korea**
+👩‍💻**FrontEnd Developer in England, UK**
 
 ❣ **Productive and Sustainable Life🌊**
 
